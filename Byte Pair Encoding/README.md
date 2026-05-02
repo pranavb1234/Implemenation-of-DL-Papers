@@ -69,7 +69,6 @@ Keep merging until you have the desired number of tokens.
 ```
 byte pair encoding/
 │
-├── bpe.py       
-├── README.md          # This file
-└── test.py            # Test script
+├── bpe.py               
+└── README.md            
 ```
